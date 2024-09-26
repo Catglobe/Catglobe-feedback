@@ -13,10 +13,18 @@
   "separateMajorMinor": true,
   "packageRules": [
     {
-      "matchDepTypes": [ "action", "minor", "patch", "devDependencies", "pin", "pinDigest", "digest" ],
+      "matchDepTypes": [
+        "action",
+        "minor",
+        "patch",
+        "devDependencies",
+        "pin",
+        "pinDigest",
+        "digest"
+      ],
       "automerge": true,
       "automergeType": "branch",
-      "requiredStatusChecks": null
+      "ignoreTests": true
     }
   ]
 }
