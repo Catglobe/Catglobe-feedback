@@ -1,4 +1,4 @@
-# Public Issues and Feature Requests for `Catglobe`
+# Issues and Feature Requests for `Catglobe`
 
 Welcome to the public repository for tracking bugs and feature requests related to `Catglobe`. This is the space where users and contributors can report issues, suggest features, and track ongoing development.
 
