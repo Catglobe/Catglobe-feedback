@@ -11,7 +11,7 @@ This repository serves as a public-facing issue tracker for the internal project
 If you've encountered an issue or have a feature request, follow these steps:
 
 1. **Check Existing Issues**: Before opening a new issue, please check if it has already been reported or suggested.
-2. **Open a New Issue**: If your issue is new, [open a new issue](https://github.com/your-org/your-repo/issues) and provide as much detail as possible.
+2. **Open a New Issue**: If your issue is new, [open a new issue](https://github.com/Catglobe/Catglobe-feedback/issues) and provide as much detail as possible.
 3. **Include Steps to Reproduce** (for bugs): Provide detailed reproduction steps, environment details, and any relevant logs.
 4. **Describe Feature Requests Clearly**: When suggesting features, include the problem it solves and any potential implementation ideas.
 
