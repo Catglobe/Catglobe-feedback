@@ -15,7 +15,8 @@
     {
       "matchDepTypes": [ "action", "minor", "patch", "devDependencies", "pin", "pinDigest", "digest" ],
       "automerge": true,
-      "automergeType": "branch"
+      "automergeType": "branch",
+      "requiredStatusChecks": null
     }
   ]
 }
